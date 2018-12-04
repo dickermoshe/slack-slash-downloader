@@ -1,0 +1,19 @@
+{
+  "name": "slack-slash-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "install": "^0.12.2",
+    "qs": "^6.6.0",
+    "request": "^2.88.0",
+    "ws": "^6.1.2",
+    "youtube-dl": "^1.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
